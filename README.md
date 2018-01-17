@@ -1,5 +1,5 @@
 # Jesustime
-Have you ever thought about the unix/epoch time and why it doesn't start at the year 0 and not 1970? Well yeah, me neither.
+Have you ever thought about the unix/epoch time, why does it start at year 1970 and not year 0? Well yeah, me neither.
 
 I guess you should look no further. 
 
